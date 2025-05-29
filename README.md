@@ -1,2 +1,2 @@
 # Atividades
-Atividades de lógica de programação
+Atividades de lógica de programação.
